@@ -29,6 +29,40 @@ Este proyecto busca resolver problemas de dispersión de información, seguridad
 * **Comunicación:** Slack / Microsoft Teams.
 * **Desarrollo Web:** HTML5, CSS3, JavaScript.
 
+## Que NO se debe subir al repositorio
+
+No deben subirse al repositorio archivos que contengan datos personales de estudiantes o docentes, como listas de correos, trabajos académicos con información identificable, bases de datos reales, credenciales, contraseñas, archivos de configuración con claves de acceso ni documentos internos del proyecto que no estén destinados a publicación.
+
+* Listados de estudiantes (.xlsx, .csv)
+* Archivos con correos institucionales
+* Credenciales (.env, config.json)
+* Carpetas privadas del Drive
+* Versiones ZIP enviadas por correo
+
+## Política de uso de datos
+
+Este repositorio contiene únicamente código y recursos técnicos necesarios para la visualización de materiales educativos. No se almacena información personal de estudiantes ni docentes. Cualquier dato utilizado durante el desarrollo del proyecto es tratado de forma interna y no se publica en repositorios públicos, respetando principios de privacidad, ética y protección de datos.
+
+Esto demuestra
+* Conciencia legal
+* Ética digital
+* Protección institucional
+
+## Licencias
+
+* El código fuente se distribuye bajo licencia MIT.
+* Los materiales educativos producidos por el equipo se publican bajo
+* Licencia Creative Commons Atribución (CC BY).
+  
+La autoría corresponde al equipo del proyecto Innovación Colaborativa.
+
+## Buenas prácticas de seguridad
+
+- No compartir enlaces públicos a archivos sensibles.
+- Usar autenticación en dos factores en plataformas colaborativas.
+- Evitar reutilizar contraseñas.
+- Revisar permisos antes de compartir información.
+  
 ## 📂 Estructura del Repositorio
 
 ```text
@@ -45,3 +79,7 @@ Este proyecto busca resolver problemas de dispersión de información, seguridad
 ├── .gitignore             # Configuración para ignorar datos sensibles
 ├── LICENSE                # Licencia del proyecto
 └── README.md              # Información general
+
+
+
+
